@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricscalidate",
+        "uuid": 17831616,
+        "checksum": "1jlhhe"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
